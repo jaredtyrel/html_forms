@@ -22,6 +22,14 @@ label {
     resize: none;
 }
 
+#name {
+    width: 300px;
+}
+
+#email {
+    width: 300px;
+}
+
 button {
     display: block;
     margin: 15px 0 0 0;
